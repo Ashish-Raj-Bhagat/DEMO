@@ -1,4 +1,4 @@
 # DEMO
 This Is My First Git Repository
 <br>
-Author : ARB
+Author : ARB (Ashihs Raj Bhagat)
